@@ -5,13 +5,11 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "shadePy"
 version = "1.0.0"
-authors = [
-  { name="0x414854", email="autor@exemple.me" },
-]
+author = { name="0x414854", email="autor@exemple.me" }
 description = "ShadePy is a robust Python library that offers an easy and user-friendly method for managing colors in the terminal. By 0x414854"
 readme = "README.md"
 license = {file = "LICENSE"}
-keywords = ["Color", "Terminal", "console", "text styling", "colored text", "background color", "Python"]
+keywords = ["Color", "Terminal", "Console", "Text Styling", "Colored Text", "Background Color", "Python"]
 requires-python = ">=3.11"
 classifiers = [
     "Programming Language :: Python :: 3",

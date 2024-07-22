@@ -41,6 +41,8 @@ Make sure you have [Python](https://www.python.org/downloads/) installed on your
 
  All available colors are listed in the file [static.py](https://github.com/0x414854/shadePy/blob/main/shadePy/static.py)
 
+ The **`shadePy`** package is used in our [Get_NFT_Holder](https://github.com/0x414854/Get_NFT_Holder) code to display colored messages in the console, enhancing the readability and user-friendliness of the script's output.
+
 ## Tree Directory
 
 shadePy/
